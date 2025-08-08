@@ -11,7 +11,7 @@ Estudiante de Análisis de Sistemas Empresariales en Valle Grande (Cañete, Per�
 - Automatización de Boletas de Pago  
 
 ## 📫 Contáctame
--LinkedIn: linkedin.com/in/lizeth-yasuri-quispe-suarez-3b481735a
--GitHub: github.com/LizethQuispeCode
--Correo: lizeth.quispe@vallegrande.edu.pe en el readme
+**LinkedIn:** linkedin.com/in/lizeth-yasuri-quispe-suarez-3b481735a
+**GitHub:** github.com/LizethQuispeCode
+**Correo:** lizeth.quispe@vallegrande.edu.pe en el readme
 
